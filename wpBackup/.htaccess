@@ -8,5 +8,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /~breale17/wp/index.php [L]
 </IfModule>
-
 # END WordPress

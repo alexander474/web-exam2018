@@ -129,3 +129,4 @@ if ( !defined( 'WP_CLI' ) ) {
     });
     add_filter( 'auto_update_translation', '__return_false' );
 }
+define('WP_MEMORY_LIMIT', '256M');

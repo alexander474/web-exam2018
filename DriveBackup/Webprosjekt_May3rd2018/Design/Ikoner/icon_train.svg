@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st1{display:none;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g id="Wheels">
+	<circle id="XMLID_3_" class="st0" cx="364.8" cy="343.7" r="24"/>
+	<circle id="XMLID_5_" class="st0" cx="95.9" cy="343.7" r="24"/>
+	<circle id="XMLID_23_" class="st0" cx="147.7" cy="343.5" r="24"/>
+	<circle id="XMLID_22_" class="st0" cx="416.1" cy="343.7" r="24"/>
+</g>
+<g id="Tram_Power">
+	
+		<rect id="XMLID_1_" x="231.4" y="120.2" transform="matrix(0.7071 0.7071 -0.7071 0.7071 172.7687 -136.6691)" class="st1" width="40" height="40"/>
+</g>
+<g id="Tram_Lines">
+	<line id="XMLID_27_" class="st2" x1="57" y1="367.7" x2="463" y2="367.7"/>
+</g>
+<g id="Tram_Frame">
+	<path id="XMLID_21_" d="M450.2,343.5H61.8c-17.6,0-32-14.4-32-32v-111c0-17.6,14.4-32,32-32h388.3c17.6,0,32,14.4,32,32v111
+		C482.2,329.1,467.8,343.5,450.2,343.5z"/>
+</g>
+<g id="Windows">
+	<path id="XMLID_4_" class="st3" d="M205.1,276.2h-48.3c-4.9,0-9-4.1-9-9v-64.4c0-4.9,4.1-9,9-9h48.3c4.9,0,9,4.1,9,9v64.4
+		C214.1,272.1,210,276.2,205.1,276.2z"/>
+	<path id="XMLID_18_" class="st3" d="M129.2,276.2H80.9c-4.9,0-9-4.1-9-9v-64.4c0-4.9,4.1-9,9-9h48.3c4.9,0,9,4.1,9,9v64.4
+		C138.2,272.1,134.2,276.2,129.2,276.2z"/>
+	<path id="XMLID_7_" class="st3" d="M280.4,276.2h-48.3c-4.9,0-9-4.1-9-9v-64.4c0-4.9,4.1-9,9-9h48.3c4.9,0,9,4.1,9,9v64.4
+		C289.4,272.1,285.4,276.2,280.4,276.2z"/>
+	<path id="XMLID_8_" class="st3" d="M355.8,276.2h-48.3c-5,0-9-4.1-9-9v-64.4c0-4.9,4-9,9-9h48.3c5,0,9,4.1,9,9v64.4
+		C364.8,272.1,360.7,276.2,355.8,276.2z"/>
+	<path id="XMLID_9_" class="st3" d="M431.1,276.2h-48.3c-4.9,0-9-4.1-9-9v-64.4c0-4.9,4.1-9,9-9h48.3c4.9,0,9,4.1,9,9v64.4
+		C440.1,272.1,436.1,276.2,431.1,276.2z"/>
+</g>
+<g id="People">
+	<path id="XMLID_6_" d="M182.1,318h-2c-6.6,0-12-5.4-12-12v-41.2c0-6.6,5.4-12,12-12h2c6.6,0,12,5.4,12,12V306
+		C194.1,312.6,188.7,318,182.1,318z"/>
+	<circle id="XMLID_10_" cx="181.1" cy="244.2" r="9.9"/>
+	<path id="XMLID_20_" d="M106.3,318h-2c-6.6,0-12-5.4-12-12v-41.2c0-6.6,5.4-12,12-12h2c6.6,0,12,5.4,12,12V306
+		C118.3,312.6,112.9,318,106.3,318z"/>
+	<circle id="XMLID_19_" cx="105.3" cy="244.2" r="9.9"/>
+	<path id="XMLID_13_" d="M257.5,318h-2c-6.6,0-12-5.4-12-12v-41.2c0-6.6,5.4-12,12-12h2c6.6,0,12,5.4,12,12V306
+		C269.5,312.6,264.1,318,257.5,318z"/>
+	<circle id="XMLID_12_" cx="256.5" cy="244.2" r="9.9"/>
+	<path id="XMLID_15_" d="M332.8,318h-2c-6.6,0-12-5.4-12-12v-41.2c0-6.6,5.4-12,12-12h2c6.6,0,12,5.4,12,12V306
+		C344.8,312.6,339.4,318,332.8,318z"/>
+	<circle id="XMLID_14_" cx="331.8" cy="244.2" r="9.9"/>
+	<path id="XMLID_17_" d="M408.2,318h-2c-6.6,0-12-5.4-12-12v-41.2c0-6.6,5.4-12,12-12h2c6.6,0,12,5.4,12,12V306
+		C420.2,312.6,414.8,318,408.2,318z"/>
+	<circle id="XMLID_16_" cx="407.2" cy="244.2" r="9.9"/>
+</g>
+</svg>

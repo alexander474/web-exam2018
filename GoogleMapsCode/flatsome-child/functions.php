@@ -4,7 +4,7 @@ function my_gmaps() {
     wp_enqueue_style( 'my_gmaps_style', get_stylesheet_directory_uri() . 
     '/css/Gmaps.css' );
     if ( !is_admin() ) {
-        wp_enqueue_script ( 'Gmaps', 'https://maps.google.com/maps/api/js', array('jquery'), false, true );
+        wp_enqueue_script ( 'Gmaps', 'https://maps.google.com/maps/api/js', array(), false, true );
         wp_enqueue_script ( 'my_gmaps_script', get_stylesheet_directory_uri() . 
         '/js/Gmaps.js' , array( 'Gmaps' ), false, true );
     }

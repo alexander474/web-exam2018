@@ -1,6 +1,13 @@
-You can use the map by pasing query parameters in the url, exampel of request can be: 
-http://127.0.0.1:5500/GoogleMaps.html?origin=fjerdingen&destination=vulkan&transporttype=TRANSIT
-
-origin=fjerdingen -> this means that the startpoint is fjerdingen
-destination=vulkan -> this means that the endpoint is vulkan
-transporttype=TRANSIT -> this means that the transport type is transit and that means bus, tram etc..
+#How to use the the googlemap code?
+<br />
+[PROTOCOL]://[URL]/[USER]/[FILEPATH]?origin=[STARTINGPOINT]&destination=[ENDPOINT]&transporttype=[TRANSPORTTYPE]<br />
+<br />
+[FILEPATH] -> Put you're starting point (example fjerdingen).<br />
+[ENDPOINT] -> Put you're ending point (example vulkan).<br />
+[TRANSPORTTYPE] -> Put you're transport type (example DRIVING, WALKING, BICYCLE).<br />
+<br />
+Usable start/end points: fjerdingen, vulkan, brenneriveien, kirkegata<br />
+<br />
+##Example on URL query
+https://tek.westerdals.no/~breale17/wp/googlemapsjavascripttest/?origin=fjerdingen&destination=vulkan&transporttype=TRANSIT<br />
+<br />

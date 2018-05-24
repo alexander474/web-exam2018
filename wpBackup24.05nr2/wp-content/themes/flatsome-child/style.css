@@ -1,0 +1,208 @@
+/*
+Theme Name: Flatsome Child
+Template: flatsome
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+@font-face{
+    font-family: 'Graphik-Regular';
+    src: url('fonts/Graphik-Regular.otf') format('otf');
+}
+
+
+/*Hovedtitler*/
+h1{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 3em;
+    font-weight: 600 !important;
+    margin-bottom: 20px !important;
+}
+
+/*Subtitler*/
+h2{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1.5em;
+    font-weight: 600 !important;
+}
+
+/*Hovedmeny*/
+h3{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1.3em;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: 700 !important;
+    width: auto !important;
+    display: inline-block !important;
+}
+
+/*Submeny*/
+h4{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1em; 
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline-block !important;
+    font-weight: 600 !important;
+    width: auto !important;
+}
+
+/*Footer-overskrifter*/
+.widget-title{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 2em !important;
+    text-transform: none !important;
+    font-weight: 500 !important;
+    letter-spacing: normal !important;
+}
+
+/*Aktiv link*/
+.active{
+    background-color: black !important;
+    color: white !important;
+}
+
+/*Hover-states*/
+h3:hover{
+    text-decoration: underline !important;
+}
+
+h4:hover{
+    text-decoration: underline !important;
+}
+
+/*Meny på ikoner, brødtekst*/
+p{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1.5em !important;
+}
+
+/*Mengdetekst til footer*/
+.footer-text{
+    font-size: 0.8em !important;
+    line-height: 0.4em !important;
+}
+
+.footer-link{
+    text-decoration: underline !important;
+}
+
+.bold{
+    font-weight: 600 !important;
+}
+
+hr{
+    margin: 0px 0px 5px 0px;
+    height: 2px;
+    color: black;
+}
+
+.is-divider{
+    display: none !important;
+}
+
+.flex-right{
+    width: 100%;
+}
+
+.flex-left{
+    width: 0px;
+}
+
+.html_topbar_left{
+    width: auto;
+}
+
+.subMenu{
+    width: 100%; 
+    display: block; 
+    text-align: right;
+}
+
+.mainMenu{
+    width: 100%;
+    margin-top: 0px;
+    display: inline-block;  
+    text-align: right;
+}
+
+.footer-social{
+    position: relative;
+    margin-top: 40px;
+}
+
+.social-media{
+    float: left;
+}
+
+.twitter{
+    width: 50px;
+    margin-right: 5px;
+}
+
+.facebook{
+    width: 54px;
+    margin-top: -1px;
+    margin-right: 7px;
+}
+
+.instagram{
+    width: 44px;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+.linkedin{
+    width: 50.3px;
+    margin-top: 1px;
+    margin-right: 7px;
+}
+
+.snapchat{
+    width: 55.8px;
+    margin-top: -3px;
+    margin-right: 5px;
+}
+
+.youtube{
+    width: 55px;
+    margin-top: -3px;
+}
+
+.container-width, .full-width, .ubermenu-nav, .container, .row{
+    max-width: 1280px !important;
+}
+
+.nav>li>a>i.icon-menu{
+    font-size: 4em;
+    color: black;
+}
+
+.nav-top-link{
+    font-family: 'Graphik-Regular' !important;
+    text-align: left !important;
+    font-weight: 300 !important;
+    text-transform: none !important;
+    font-size: 1.5em !important;
+}
+
+.mfp-close{
+    font-size: 70px !important;
+    margin: 40px 20px 0px 0px !important;
+    color: black !important;
+    opacity: 1 !important;
+}
+
+.mfp-bg{
+    top: 120px !important;
+    left: 2% !important;
+    width: 96% !important;
+    opacity: 1 !important;
+}
+
+ul.children{
+    display: block !important;
+    text-align: left !important; 
+    background-color: none !important;
+    left: 30px !important;
+}

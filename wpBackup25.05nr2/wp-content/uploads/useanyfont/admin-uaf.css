@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'graphik-regular';
+				font-style: normal;
+				src: url('/~breale17/wp/wp-content/uploads/useanyfont/180503084652Graphik-Regular.eot');
+				src: local('graphik-regular'), url('/~breale17/wp/wp-content/uploads/useanyfont/180503084652Graphik-Regular.eot') format('embedded-opentype'), url('/~breale17/wp/wp-content/uploads/useanyfont/180503084652Graphik-Regular.woff') format('woff');
+			}
+            
+            .et_gf_graphik-regular{background:none !important;font-family:graphik-regular;text-indent:0 !important;font-size:25px;}
+            
+		

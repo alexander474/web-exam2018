@@ -1,0 +1,462 @@
+/*
+Theme Name: Flatsome Child
+Template: flatsome
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+@font-face{
+    font-family: 'Graphik-Regular';
+    src: url('fonts/Graphik-Regular.otf') format('otf');
+}
+
+
+/*Hovedtitler*/
+h1{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 3em !important;
+    font-weight: 600 !important;
+    margin-bottom: 20px !important;
+}
+
+/*Subtitler*/
+h2{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1.5em !important;
+    font-weight: 600 !important;
+}
+
+/*Hovedmeny*/
+h3{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1.3em;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: 700 !important;
+    width: auto !important;
+    display: inline-block !important;
+}
+
+/*Submeny*/
+h4{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1em; 
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline-block !important;
+    font-weight: 600 !important;
+    width: auto !important;
+}
+
+/*Footer-overskrifter*/
+.widget-title{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 2em !important;
+    text-transform: none !important;
+    font-weight: 500 !important;
+    letter-spacing: normal !important;
+}
+
+/*Aktiv link*/
+.active{
+    background-color: black !important;
+    color: white !important;
+}
+
+/*Hover-states*/
+h3:hover{
+    text-decoration: underline !important;
+}
+
+h4:hover{
+    text-decoration: underline !important;
+}
+
+/*Meny-tekst*/
+.icon-menu-text{
+    font-size: 1.3em !important;
+}
+
+/*Meny på ikoner, brødtekst*/
+p{
+    font-family: 'Graphik-Regular' !important;
+    font-size: 1.1em !important;
+}
+
+/*Fjerne dividers*/
+.is-divider{
+    display: none !important;
+}
+
+
+/*
+HOVEDMENY
+-----------------------------------------*/
+/*Skillestrek i meny*/
+hr{
+    margin: 0px 0px 5px 0px;
+    height: 1px;
+    color: black;
+    background-color: black;
+    opacity: 1;
+}
+
+/*Høyre felt i menyen*/
+.flex-right{
+    width: 100%;
+}
+
+/*Venstre (tomt) felt i menylinjen*/
+.flex-left{
+    width: 0px;
+}
+
+/*Innhold i høyre felt i menyen*/
+.html_topbar_left{
+    width: auto;
+}
+
+/*Øverste menyen*/
+.subMenu{
+    width: 100%; 
+    display: block; 
+    text-align: right;
+}
+
+/*Nederste menyen*/
+.mainMenu{
+    width: 100%;
+    margin-top: 0px;
+    display: inline-block;  
+    text-align: right;
+}
+
+/*
+FOOTER
+-----------------------------------------*/
+/*Mengdetekst til footer*/
+.footer-text{
+    font-size: 0.8em !important;
+    line-height: 0.4em !important;
+}
+
+/*Linker i footer*/
+.footer-link{
+    text-decoration: underline !important;
+}
+
+/*Bold tekst i footer*/
+.bold{
+    font-weight: 600 !important;
+}
+
+/*Footer-sosiale ikoner*/
+.footer-social{
+    position: relative;
+    margin-top: 40px;
+}
+
+.social-media{
+    float: left;
+}
+
+.twitter{
+    width: 50px;
+    margin-right: 5px;
+}
+
+.facebook{
+    width: 54px;
+    margin-top: -1px;
+    margin-right: 7px;
+}
+
+.instagram{
+    width: 44px;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+.linkedin{
+    width: 50.3px;
+    margin-top: 1px;
+    margin-right: 7px;
+}
+
+.snapchat{
+    width: 55.8px;
+    margin-top: -3px;
+    margin-right: 5px;
+}
+
+.youtube{
+    width: 55px;
+    margin-top: -3px;
+}
+
+/*Bredden til hoved-container på websiden*/
+.container-width, .full-width, .ubermenu-nav, .container, .row{
+    max-width: 1280px !important;
+}
+
+/*
+HAMBURGERMENY
+--------------------------------------------*/
+/*Hamburger-meny-ikonet*/
+.nav>li>a>i.icon-menu{
+    font-size: 4em;
+    color: black;
+}
+
+/*Linker i hamburgermeny*/
+.nav-top-link{
+    font-family: 'Graphik-Regular' !important;
+    text-align: left !important;
+    font-weight: 300 !important;
+    text-transform: none !important;
+    font-size: 1.5em !important;
+    position: relative !important;
+}
+
+/*X i hamburger-meny*/
+.mfp-close{
+    font-size: 70px !important;
+    margin: 40px 20px 0px 0px !important;
+    color: black !important;
+    opacity: 1 !important;
+}
+
+/*Bakgrunn til hamburgermeny*/
+.mfp-bg{
+    top: 120px !important;
+    left: 2% !important;
+    width: 96% !important;
+    opacity: 1 !important;
+}
+
+/*Hovedcontainer til hamburgermeny*/
+.mfp-container{
+    top: 120px !important;
+}
+
+/*Innholds-container i hamburgermeny*/
+.mfp-content{
+    padding-top: 0px !important;
+
+}
+
+/*Undertitler til campus*/
+#menu-item-549, #menu-item-550, #menu-item-551, #menu-item-552{
+    left: 50px !important;
+    font-size: 1em !important;
+}
+
+/*Sosiale ikoner i hamburgermeny*/
+button.icon:not(.button), a.icon:not(.button){
+    font-size: 2.2em !important;
+    
+}
+
+.social-icons{
+    margin-top: 20px !important;
+}
+
+/*
+IKON-MENYER
+----------------------------------------*/
+
+/*Link-bokser på ikon-menyer*/
+.hover-box-1, .hover-box-2, .hover-box-3, .hover-box-4{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer !important;
+}
+
+/*Linene som dukker opp på hover*/
+.hover-line-1, .hover-line-2, .hover-line-3, .hover-line-4{
+    height: 10px;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    z-index: 10000 !important;
+    display: none;
+}
+
+.line-purple{
+    background-color: rgb(140, 40, 92);
+}
+
+.line-red{
+    background-color: rgb(200, 36, 63);
+}
+
+.line-blue{
+    background-color: rgb(101, 108, 150);
+}
+
+.line-turquoise{
+    background-color: rgb(137, 208, 200);
+}
+
+.hover-box-1:hover .hover-line-1{
+    display: block;
+}
+
+.hover-box-2:hover .hover-line-2{
+    display: block;
+}
+
+.hover-box-3:hover .hover-line-3{
+    display: block;
+}
+
+.hover-box-4:hover .hover-line-4{
+    display: block;
+}
+
+/*
+HEADLINE LINJER
+-----------------------------*/
+.headline-underline{
+    height: 6px;
+}
+
+.underline-avreise{
+    width: 180px;
+}
+
+.underline-destinasjon{
+    width: 275px;
+}
+
+.underline-informasjon{
+    width: 285px;
+}
+
+.underline-fasiliteter{
+    width: 235px;
+}
+
+.underline-romoversikt{
+    width: 300px;
+}
+
+.underline-reisevei{
+    width: 200px;    
+}
+
+/* 
+BACK-BUTTON
+------------------------------------
+*/
+.back-button{
+    margin-bottom: -30px;
+    width: 50px;
+}
+
+/*
+MEDIA QUERIES - ULIKE SKJERMSTØRRELSER
+-----------------------------*/
+@media screen and (max-width: 950px){
+    h3{
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+    
+    h4{
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+}
+
+@media screen and (max-width: 768px){
+    h1{
+        font-size: 2.5em !important;
+    }
+    
+    h2{
+        font-size: 1em !important;
+    }
+    
+    .widget-title{
+        font-size: 1.3em !important;
+    }
+    
+    p{
+        font-size: 1.1em !important;
+    }
+    
+    .nav-top-link{
+        font-size: 1.3em !important;
+    }
+    
+    .underline-avreise{
+        width: 150px;
+    }
+
+    .underline-destinasjon{
+        width: 230px;
+    }
+    
+    .underline-reisevei{
+        width: 170px;
+    }
+
+    .underline-informasjon{
+        width: 240px;
+    }
+
+    .underline-fasiliteter{
+        width: 200px;
+    }
+
+    .underline-romoversikt{
+        width: 250px;
+    }
+    
+}
+
+@media screen and (max-width: 640px){
+    h1{
+        font-size: 2em !important;
+    }
+    h2{
+        font-size: 1em !important;
+    }
+    .widget-title{
+        font-size: 1.2em !important;
+    }
+    
+    p{
+        font-size: 1em !important;
+    }
+    .nav-top-link{
+        font-size: 1.2em !important;
+    }
+    
+    .underline-avreise{
+        width: 120px;
+    }
+
+    .underline-destinasjon{
+        width: 185px;
+    }
+    
+    .underline-reisevei{
+        width: 135px;
+    }
+
+    .underline-informasjon{
+        width: 190px;
+    }
+
+    .underline-fasiliteter{
+        width: 160px;
+    }
+
+    .underline-romoversikt{
+        width: 200px;
+    }
+    
+}

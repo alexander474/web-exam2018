@@ -1,0 +1,58 @@
+/*
+*The autcomplete alternatives list
+*/
+#roomsautocomplete-list{
+    width:200px;
+    height:300px;
+    max-width: none;
+    box-shadow:none;
+    background:none;
+    margin: 3px;
+    overflow-y: auto;
+}
+
+/*
+*Input text field
+*/
+#rooms{
+ margin-right: 10px !important;
+ width: 70% !important;
+}
+
+/*
+*image Showing
+*/
+#map-wrapper{
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+#map{
+    width: 70%;
+    height: 70%;
+    margin-left: 15%;
+    display: inline-block;
+}
+#img{
+    width: 100%;
+    height: 100%;
+}
+
+/*
+*the submit button
+*/
+#button{
+    width: 100px !important;
+    background-color: black !important;
+    color: white !important;
+    text-transform: none !important;
+    font-weight: 500;
+}
+@media screen and (max-width: 768px){
+    #map{
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+

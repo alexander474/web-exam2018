@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Autosearch v1.9.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-01 03:14-0700\n"
+"Last-Translator: admin <bharatchavod@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ajax-autosuggest
+#: ajax-autosuggest.php:79 options.php:110 widget.php:21
+msgid "WP Autosearch"
+msgstr ""
+
+# @ ajax-autosuggest
+#: ajax.php:56
+msgid "Results"
+msgstr ""
+
+# @ ajax-autosuggest
+#: helper.php:162
+msgid "WP Autosearch Holder"
+msgstr ""
+
+# @ ajax-autosuggest
+#: helper.php:164
+msgid "Add \"WP Autosearch\" here and use shortcode [ajax_autosuggest_form] or function  <?php ajax_autosuggest_form(); ?>."
+msgstr ""
+
+# @ ajax-autosuggest
+#: helper.php:239
+msgid "Upload Image"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:89
+msgid "Changes Saved."
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:95
+msgid "Security check failed."
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:115
+msgid "Search And Results"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:144
+msgid "ID"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:145
+msgid "Author"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:146 options.php:349 widget.php:37
+msgid "Title"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:147
+msgid "Name"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:148
+msgid "Date"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:149
+msgid "Modified Date"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:150
+msgid "Random"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:151
+msgid "Comment Count"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:152
+msgid "None"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:155
+msgid "Ascending"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:156
+msgid "Descending"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:169
+msgid "Milliseconds"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:185 options.php:189
+msgid "Seperate IDs with comma. eg: 2, 18, 300"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:200
+msgid "Thumbnail"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:270
+msgid "Color"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:391
+msgid "Save Changes"
+msgstr ""
+
+# @ ajax-autosuggest
+#: widget.php:22
+msgid "WP Autosearch Form"
+msgstr ""
+
+# @ ajax-autosuggest
+#: widget.php:29 widget.php:66
+msgid "Search"
+msgstr ""
+
+# @ ajax-autosuggest
+#: widget.php:30 widget.php:67
+msgid "Type Keyword..."
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:177 options.php:181
+msgid "Characters"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:208 options.php:212
+msgid "px"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:160
+msgid "Max number of results"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:164
+msgid "Minimum characters"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:168
+msgid "Ajax delay"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:172
+msgid "Cache length"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:176
+msgid "Result description limit"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:180
+msgid "Result title limit"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:184
+msgid "Excluded IDs"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:203
+msgid "Display Thumbnail"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:207
+msgid "Width"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:211
+msgid "Height"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:215
+msgid "Get first post image"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:219
+msgid "Force resize first post image"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:222
+msgid "Crop"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:226
+msgid "Default image"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:117
+msgid "Types of results"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:142
+msgid "Order by"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:272
+msgid "Results - even bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:276
+msgid "Results - odd bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:280
+msgid "Results - hover bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:284
+msgid "Results - even text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:288
+msgid "Results - odd text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:292
+msgid "Results - hover text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:312
+msgid "More - bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:316
+msgid "More - hover bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:320
+msgid "More - text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:324
+msgid "More - hover text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:129
+msgid "Split results by post type"
+msgstr ""
+
+# @ ajax-autosuggest
+#: widget.php:45
+msgid "Placeholder"
+msgstr ""
+
+# @ ajax-autosuggest
+#: resize.php:42 resize.php:177
+msgid "No image URL has been entered."
+msgstr ""
+
+# @ ajax-autosuggest
+#: resize.php:241
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+# @ ajax-autosuggest
+#: resize.php:284
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+# @ ajax-autosuggest
+#: resize.php:288
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+# @ ajax-autosuggest
+#: resize.php:296
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+# @ ajax-autosuggest
+#: resize.php:311
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:354
+msgid "No Results! Try Full Search..."
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:351
+msgid "Try Full Search..."
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:240
+msgid "Search elements"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:242
+msgid "Display more bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:247
+msgid "Display result title"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:257
+msgid "Search Image"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:296
+msgid "Separator - bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:300
+msgid "Separator - hover bar"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:304
+msgid "Separator - text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:308
+msgid "Separator - hover text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:328
+msgid "Search box - border"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:333
+msgid "Search box - background"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:338
+msgid "Search box - text"
+msgstr ""
+
+# @ ajax-autosuggest
+#: widget.php:31
+msgid "350"
+msgstr ""
+
+# @ ajax-autosuggest
+#: widget.php:53
+msgid "Max width(px)"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:132
+msgid "Search posts/produtcs tags"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:136
+msgid "Search comments"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:188
+msgid "Excluded Category IDs"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:192
+msgid "Full Search URL"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:193
+#, php-format
+msgid "%q% will be replaced by search keyword."
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:374
+msgid "Other options"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:378
+msgid "Custom CSS"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:382
+msgid "Custom JavaScript"
+msgstr ""
+
+# @ ajax-autosuggest
+#: options.php:252
+msgid "Enable token"
+msgstr ""

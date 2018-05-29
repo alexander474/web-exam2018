@@ -1,0 +1,10 @@
+
+#roomsautocomplete-list{
+    width:200px;
+    height:300px;
+    max-width: none;
+    box-shadow:none;
+    background:none;
+    margin: 3px;
+    overflow-y: auto;
+}
